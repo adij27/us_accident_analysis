@@ -1,0 +1,7 @@
+
+
+
+- Accidents are most frequent during rush hours (7-9 AM, 4-6 PM).
+- California, Texas, and Florida lead in accident rates.
+- Random Forest Classifier performed best with 82.4% test accuracy and AUC of 0.76.
+- Weather conditions like rain and fog increase accident severity significantly.

@@ -1,0 +1,7 @@
+Random Forest Classifier:
+Train Accuracy: 99.2%
+Test Accuracy: 82.4%
+
+Extra Trees Classifier:
+Train Accuracy: 98.7%
+Test Accuracy: 81.8%

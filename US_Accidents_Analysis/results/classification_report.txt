@@ -1,0 +1,9 @@
+Random Forest Classifier:
+Precision: 0.82
+Recall: 0.78
+F1-Score: 0.80
+
+Logistic Regression:
+Precision: 0.76
+Recall: 0.72
+F1-Score: 0.74
